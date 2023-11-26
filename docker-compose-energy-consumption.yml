@@ -1,0 +1,9 @@
+version: '3.8'
+
+services:
+  energy-consumption:
+    image: energy-consumption:latest
+    container_name: energy-consumption
+    restart: unless-stopped
+    ports:
+      - "8080:8080"
