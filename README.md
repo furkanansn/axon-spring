@@ -1,4 +1,4 @@
-# Energy Consumption Application
+# Spring Axon example
 
 This is a Spring Boot application for processing metering data related to energy consumption. The application provides RESTful APIs for CRUD operations on fractions and meter readings, as well as retrieving consumption for a given month.
 
